@@ -9,11 +9,11 @@ Saltar = W ou UpArrow
 
 Deitar = S ou DownArrow
 
-Golpe básico = J
+Golpe rápido = J
 
-Golpe secundário = K
+Golpe forte = K
 
-Golpe terciário = L
+Golpe ascendente = L
 
 Chute = H
 
